@@ -1,4 +1,4 @@
-## Hi there 👋
+## Empresa para curso de GitHub Admin 👋
 
 <!--
 
